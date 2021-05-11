@@ -1,0 +1,12 @@
+C:\VBNET\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\VBNET\Kalkulator\bin\Debug\Kalkulator.exe
+C:\VBNET\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\VBNET\Kalkulator\bin\Debug\Kalkulator.xml
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.vbprojAssemblyReference.cache
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.Resources.resources
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.vbproj.GenerateResource.cache
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.vbproj.CoreCompileInputs.cache
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.exe
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.xml
+C:\VBNET\Kalkulator\obj\Debug\Kalkulator.pdb
